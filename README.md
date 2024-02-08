@@ -28,7 +28,8 @@
 ┌───[ tools ]─────────────▰▰▰
 │
 │  I love using linux, neovim, and the cli tools for my work. And Tokyonight theme on everything.
-│  In my opinion, simplicity is the ultimate sophistication.
-│                                            - Steve Jobs
+│ 
+│  "Simplicity is the ultimate sophistication"
+│                           - Steve Jobs
 └────────────────────▰▰▰
 </pre>
