@@ -9,6 +9,7 @@
 │
 ├─▣  Hi there, I am a undergraduate student majoring in CSE.
 ├─▣  With specialization in Full Stack, I aspire to become an ML Ops Engineer.
+├─▣  My <a href="https://try3d.github.io/">portfolio</a> btw.
 │
 └────────────────────▰▰▰
 
